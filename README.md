@@ -1,3 +1,3 @@
 # Scrum-ohje
 ## Roolit
-jotain tekstiä
+tekstiä rooleista
