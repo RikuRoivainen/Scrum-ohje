@@ -1,4 +1,8 @@
 # Scrum-ohje
+<<<<<<< HEAD
+## Roolit
+jotain tekstiä
+=======
 
 
 ## 2. Sprintit
@@ -12,4 +16,5 @@ Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestä�
 ## Työjonot
 
 Tähän kirjoitetaan työjonoista kaikenlaista juttua.
+
 
