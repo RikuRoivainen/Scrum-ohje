@@ -1,10 +1,6 @@
 # Scrum-ohje
-<<<<<<< HEAD
-## Roolit
-jotain tekstiä
-=======
 
-<<<<<<< HEAD
+
 
 ## 2. Sprintit
 Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestää 1-4 viikkoa. Sprintin aikana tiimi keskittyy tiettyihin tavoitteisiin.
@@ -17,10 +13,12 @@ Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestä�
 ## Scrum-syklin yleiskuvaus 
 Tähän tulee Veeran kirjoittamaa yleiskuvausta
 
->>>>>>> 6f4de8452f6244afb383f7dbce9fae7764d1c858
 
 ## Työjonot
 
 Tähän kirjoitetaan työjonoista kaikenlaista juttua.
 
 
+## Roolit
+jotain tekstiä
+=======
