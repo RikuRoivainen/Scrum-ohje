@@ -1,8 +1,5 @@
 # Scrum-ohje
-<<<<<<< HEAD
-## Roolit
-jotain tekstiä
-=======
+
 
 
 ## 2. Sprintit
@@ -12,13 +9,15 @@ Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestä�
 - **Sprintin toteutus:** Suunnittelun jälkeen aletaan toteuttamaan. Sprintti tiimi kokoontuu päivittäin lyhyeen kokoukseen, jossa keskustellaan etenemisestä.
 - **Sprintin tavoitteet:** Sprintin tulee olla selkästi määritelty ja jaettu tiimille. Tavoitteena toimittaa toimivan tuotteen inkrementti.
 - **Sprintin arviointi ja retrospektiivi:**  Arvioidaan mitä sprintissä on saatu aikaiseksi ja reflektoidaan sprintin aikana opittua asioita ja pyritään parantamaan prosessia jatkoa varten.
-=======
-## Scrum-syklin yleiskuvaus 
-Tähän tulee Veeran kirjoittamaa yleiskuvausta
 
 
-## Työjonot
+
+
+## 3.Työjonot
 
 Tähän kirjoitetaan työjonoista kaikenlaista juttua.
 
 
+## Roolit
+jotain tekstiä
+=======
