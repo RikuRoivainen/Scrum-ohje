@@ -1,7 +1,7 @@
 # Scrum-ohje
 
 ## 1. Scrum-syklin yleiskuvaus 
-Tähän tulee Veeran kirjoittamaa yleiskuvausta
+Scrum on ohjelmistoprojektimalli, joka koostuu 2-4 viikkoa kestävistä kehitysjaksoista.
 
 ## 2. Sprintit
 Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestää 1-4 viikkoa. Sprintin aikana tiimi keskittyy tiettyihin tavoitteisiin.
