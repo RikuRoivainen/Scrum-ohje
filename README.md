@@ -1,7 +1,8 @@
 # Scrum-ohje
 
 ## 1. Scrum-syklin yleiskuvaus 
-Scrum on ohjelmistoprojektimalli, joka koostuu 2-4 viikkoa kestävistä kehitysjaksoista.
+Scrum on ohjelmistoprojektimalli, joka koostuu 1-4 viikkoa kestävistä kehitysjaksoista, sprinteistä. Scrum on ketterien menetelmien mukaisesti iteratiivinen ja inkrementaalinen kehitysmalli, jossa kehitys tapahtuu lyhyissä, toistuvissa sykleissä ja jokaisella sprintillä kehitetään pieniä lisäyksiä tuotteeseen prioriteettijärjestyksessä. Ennen sprinttiä tuoteomistaja valitsee tuotteen kehitysjonosta tuoteominaisuuden, jonka scrum-tiimi toteuttaa itsenäisesti sprintin aikana. Sprintin päätteeksi kehitetty tuoteversio katselmoidaan sekä sovitaan, mitä seuraavassa sprintissä tehdään. Scrum-mallissa tätä sykliä toistetaan siihen asti, että projekti saadaan päätökseen. 
+
 
 ## 2. Sprintit
 Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestää 1-4 viikkoa. Sprintin aikana tiimi keskittyy tiettyihin tavoitteisiin.
