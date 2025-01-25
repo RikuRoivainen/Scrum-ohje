@@ -20,16 +20,16 @@ Tähän kirjoitetaan työjonoista kaikenlaista juttua.
 
 ## 4. Roolit
 
-Scrum-tiimissä on 3 eri roolia:
+Scrum-tiimissä on kolme eri roolia: kehittäjät, tuoteomistaja ja Scrum Master. Jokaisella roolilla on omat vastuut ja taidot. 
 
 ### Kehittäjät
 * Suunnittelee ja toteuttaa sprintit
-* Muuttaa suunnitelmaa tarvittaessa
+* Muuttaa suunnitelmaa tarvittaessa, jotta vastaa tavoitteita paremmin
 * Huolehtii, että lopputulos vastaa standardeja ja pyydettyä
 
 ### Tuoteomistaja
 * Tuotteen tavoitteiden ja vision määrittely
-* Backlogin hallinnointi ja sen sisällön, selvyyden ja läpinäkyvyyden vastaaminen
+* Product Backlogin hallinnointi
 * Muulle organisaatiolle kommunikoiminen
 
 ### Scrum Master
