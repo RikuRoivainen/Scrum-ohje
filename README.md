@@ -15,7 +15,40 @@ Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestä�
 
 ## 3.Työjonot
 
-Tähän kirjoitetaan työjonoista kaikenlaista juttua.
+### Tuotejono (Product Backlog)
+
+- **Mikä se on?**  
+  Tuotejono on priorisoitu lista kaikista ominaisuuksista, parannuksista, korjauksista ja muista tarpeista, jotka ovat välttämättömiä tuotteen kehittämiseksi.
+
+- **Kuka vastaa siitä?**  
+  Tuoteomistaja (Product Owner) vastaa tuotejonon ylläpidosta ja priorisoinnista.
+
+- **Mitä sen tulisi sisältää?**  
+  - Käyttäjätarinoita (User Stories)  
+  - Teknisiä tehtäviä  
+  - Ideoita ja palautteita  
+
+- **Priorisointi:**  
+  Kohteet priorisoidaan liiketoiminnan arvon, riskien ja toteutuksen kiireellisyyden perusteella.
+
+---
+
+### Sprint-jono (Sprint Backlog)
+
+- **Mikä se on?**  
+  Sprint-jono on lista tehtävistä, jotka tiimi sitoutuu toteuttamaan yhden sprintin aikana. Se valitaan tuotejonosta sprintin suunnittelukokouksessa.
+
+- **Kuka vastaa siitä?**  
+  Kehitystiimi hallinnoi sprint-jonoa.
+
+- **Mitä se sisältää?**  
+  - Sprintin tavoite  
+  - Valitut tuotejonon kohteet  
+  - Yksityiskohtaiset tehtävät näiden kohteiden toteuttamiseksi  
+
+- **Päivitykset:**  
+  Sprint-jono elää sprintin aikana, ja tiimi voi lisätä tai pilkkoa tehtäviä tilanteen mukaan.
+
 
 
 ## 4. Roolit
