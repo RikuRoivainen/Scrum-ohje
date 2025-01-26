@@ -1,7 +1,8 @@
 # Scrum-ohje
 
 ## 1. Scrum-syklin yleiskuvaus 
-Tähän tulee Veeran kirjoittamaa yleiskuvausta
+Scrum on ohjelmistoprojektimalli, joka koostuu 1-4 viikkoa kestävistä kehitysjaksoista, sprinteistä. Scrum on ketterien menetelmien mukaisesti iteratiivinen ja inkrementaalinen kehitysmalli, jossa kehitys tapahtuu lyhyissä, toistuvissa sykleissä ja jokaisella sprintillä kehitetään pieniä lisäyksiä tuotteeseen prioriteettijärjestyksessä. Ennen sprinttiä tuoteomistaja valitsee tuotteen kehitysjonosta tuoteominaisuuden, jonka scrum-tiimi toteuttaa itsenäisesti sprintin aikana. Sprintin päätteeksi kehitetty tuoteversio katselmoidaan sekä sovitaan, mitä seuraavassa sprintissä tehdään. Scrum-mallissa tätä sykliä toistetaan siihen asti, että projekti saadaan päätökseen. 
+
 
 ## 2. Sprintit
 Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestää 1-4 viikkoa. Sprintin aikana tiimi keskittyy tiettyihin tavoitteisiin.
@@ -14,8 +15,66 @@ Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestä�
 
 ## 3.Työjonot
 
-Tähän kirjoitetaan työjonoista kaikenlaista juttua.
+### Tuotejono (Product Backlog)
+
+- **Mikä se on?**  
+  Tuotejono on priorisoitu lista kaikista ominaisuuksista, parannuksista, korjauksista ja muista tarpeista, jotka ovat välttämättömiä tuotteen kehittämiseksi.
+
+- **Kuka vastaa siitä?**  
+  Tuoteomistaja (Product Owner) vastaa tuotejonon ylläpidosta ja priorisoinnista.
+
+- **Mitä sen tulisi sisältää?**  
+  - Käyttäjätarinoita (User Stories)  
+  - Teknisiä tehtäviä  
+  - Ideoita ja palautteita  
+
+- **Priorisointi:**  
+  Kohteet priorisoidaan liiketoiminnan arvon, riskien ja toteutuksen kiireellisyyden perusteella.
+
+---
+
+### Sprint-jono (Sprint Backlog)
+
+- **Mikä se on?**  
+  Sprint-jono on lista tehtävistä, jotka tiimi sitoutuu toteuttamaan yhden sprintin aikana. Se valitaan tuotejonosta sprintin suunnittelukokouksessa.
+
+- **Kuka vastaa siitä?**  
+  Kehitystiimi hallinnoi sprint-jonoa.
+
+- **Mitä se sisältää?**  
+  - Sprintin tavoite  
+  - Valitut tuotejonon kohteet  
+  - Yksityiskohtaiset tehtävät näiden kohteiden toteuttamiseksi  
+
+- **Päivitykset:**  
+  Sprint-jono elää sprintin aikana, ja tiimi voi lisätä tai pilkkoa tehtäviä tilanteen mukaan.
+
 
 
 ## 4. Roolit
-jotain tekstiä
+
+Scrum-tiimissä on kolme eri roolia: kehittäjät, tuoteomistaja ja Scrum Master. Jokaisella roolilla on omat vastuut ja taidot. 
+
+### Kehittäjät
+* Suunnittelee ja toteuttaa sprintit
+* Muuttaa suunnitelmaa tarvittaessa, jotta vastaa tavoitteita paremmin
+* Huolehtii, että lopputulos vastaa standardeja ja pyydettyä
+
+### Tuoteomistaja
+* Tuotteen tavoitteiden ja vision määrittely
+* Product Backlogin hallinnointi
+* Muulle organisaatiolle kommunikoiminen
+
+### Scrum Master
+* Vastaa Scrumin käyttöönotosta ja käytöstä
+* Valmentaa ja tukee tiimiä
+* Vastaa tiimin tehokkuudesta
+* Auttaa kehittäjiä ja tuoteomistajaa useissa tehtävissä
+
+
+## 5. Miksi Scrum toimii?
+Scrumin suosioon vaikuttaa muun muassa seuraavat asiat:
+- **Se parantaa tiimityötä:** Selkeä rakenne ja roolijako, sekä säännöllinen viestintä.
+- **Joustavuus & reagointikyky:** Tiimi pystyy reagoimaan nopeasti muutoksiin jatkuvien sprinttien takia.
+- **Arvon tuotto:** Jokainen sprintti tuottaa julkaisukelpoisen tuotoksen.
+- **Jatkuva kehitys:** Retrospektiivit auttavat tiimiä oppimaan ja kehittymään jokaisen sprintin jälkeen.
