@@ -70,3 +70,11 @@ Scrum-tiimissä on kolme eri roolia: kehittäjät, tuoteomistaja ja Scrum Master
 * Valmentaa ja tukee tiimiä
 * Vastaa tiimin tehokkuudesta
 * Auttaa kehittäjiä ja tuoteomistajaa useissa tehtävissä
+
+
+## 5. Miksi Scrum toimii?
+Scrumin suosioon vaikuttaa muun muassa seuraavat asiat:
+- **Se parantaa tiimityötä:** Selkeä rakenne ja roolijako, sekä säännöllinen viestintä.
+- **Joustavuus & reagointikyky:** Tiimi pystyy reagoimaan nopeasti muutoksiin jatkuvien sprinttien takia.
+- **Arvon tuotto:** Jokainen sprintti tuottaa julkaisukelpoisen tuotoksen.
+- **Jatkuva kehitys:** Retrospektiivit auttavat tiimiä oppimaan ja kehittymään jokaisen sprintin jälkeen.
