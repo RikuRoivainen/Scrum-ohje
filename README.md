@@ -75,10 +75,10 @@ Scrum-tiimissä on kolme eri roolia:
 
 ## 5. Kokoukset
 Scrumissa pidetään tarkoitusperäisiä kokouksia, joiden tehtävänä on tukea kehitystyötä. Scrum kokouksia ovat:
-    - **Sprintin suunnittelukokous:** Suunnitellaan ja määritellään sprintin tavoitteet.
-    - **Päivittäinen kokous:** Lyhyt n. 15 minuuttia pitkä päivittäinen kokous jossa käydään läpi päivittäiset asiat.
-    - **Sprintin katselmointi:** Sprintin jälkeinen kokous, jossa arvioidaan tuloksia ja esitellään valmis inkrementti.
-    - **Sprintin retrospektiivi:** Kokous jossa tarkastellaan sprintin onnistumista ja onnistumiseen vaikuttaneita tekijöitä. Tarkoituksena on selvittää mitä prosesseja voidaan parantaa ja miten.
+- **Sprintin suunnittelukokous:** Suunnitellaan ja määritellään sprintin tavoitteet.
+- **Päivittäinen kokous:** Lyhyt n. 15 minuuttia pitkä päivittäinen kokous jossa käydään läpi päivittäiset asiat.
+- **Sprintin katselmointi:** Sprintin jälkeinen kokous, jossa arvioidaan tuloksia ja esitellään valmis inkrementti.
+- **Sprintin retrospektiivi:** Kokous jossa tarkastellaan sprintin onnistumista ja onnistumiseen vaikuttaneita tekijöitä. Tarkoituksena on selvittää mitä prosesseja voidaan parantaa ja miten.
 
 ## 6. Miksi Scrum toimii?
 Scrumin suosioon vaikuttaa muun muassa seuraavat asiat:
