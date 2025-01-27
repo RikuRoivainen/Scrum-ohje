@@ -73,10 +73,14 @@ Scrum-tiimissä on kolme eri roolia:
 
  Jokainen rooli sekä niiden yhteistyö on kriittinen onnistuneelle projektille.   
 
+## 5. Kokoukset
+    Scrumissa pidetään tarkoitusperäisiä kokouksia, joiden tehtävänä on tukea kehitystyötä.
+    Scrum kokouksia ovat esimerkiksi:
 
-## 5. Miksi Scrum toimii?
+## 6. Miksi Scrum toimii?
 Scrumin suosioon vaikuttaa muun muassa seuraavat asiat:
 - **Se parantaa tiimityötä:** Selkeä rakenne ja roolijako, sekä säännöllinen viestintä.
 - **Joustavuus & reagointikyky:** Tiimi pystyy reagoimaan nopeasti muutoksiin jatkuvien sprinttien takia.
 - **Arvon tuotto:** Jokainen sprintti tuottaa julkaisukelpoisen tuotoksen.
 - **Jatkuva kehitys:** Retrospektiivit auttavat tiimiä oppimaan ja kehittymään jokaisen sprintin jälkeen.
+
