@@ -31,7 +31,6 @@ Sprintti on Scrumin ydin. Se on ajallisesti rajattu jakso, joka yleensä kestä�
 - **Priorisointi:**  
   Kohteet priorisoidaan liiketoiminnan arvon, riskien ja toteutuksen kiireellisyyden perusteella.
 
----
 
 ### Sprint-jono (Sprint Backlog)
 
